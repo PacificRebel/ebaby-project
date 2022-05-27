@@ -94,8 +94,10 @@ GEM
     pg (1.1.4)
     puma (4.3.9)
       nio4r (~> 2.0)
+ dependabot/bundler/nokogiri-1.13.6
     racc (1.6.0)
     rack (2.2.3)
+
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rails (6.0.1)
